@@ -21,7 +21,7 @@ tasks.test {
 }
 
 pitest {
-    pitestVersion.set("1.14.2")
+    pitestVersion.set("1.14.3")
     targetClasses.set(setOf("de.esolutions.*"))
     junit5PluginVersion.set("1.0.0")
 }
